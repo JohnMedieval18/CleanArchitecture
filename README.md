@@ -1,3 +1,5 @@
+21.04
+
 # Clean Architecture Solution Template
 
 [![Build](https://github.com/jasontaylordev/CleanArchitecture/actions/workflows/build.yml/badge.svg)](https://github.com/jasontaylordev/CleanArchitecture/actions/workflows/build.yml)
